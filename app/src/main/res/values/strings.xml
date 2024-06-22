@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">diplomAndroid</string>
+    <string name="title">Сокращение\nссылок</string>
+    <string name="text">Сокращение:</string>
+    <string name="link">Длинная ссылка</string>
+    <string name="small_link">Сокращенная ссылка</string>
+    <string name="error_btn">Введите ссылку</string>
+    <string name="wrong_link_btn">Сокращенная ссылка неверная</string>
+    <string name="ready_btn">Готово</string>
+    <string name="another_link_btn">Укажите другую ссылку</string>
+</resources>
